@@ -1,0 +1,30 @@
+.content{
+    grid-area: c;
+    background-color: cornflowerblue ;
+    padding: 10px 10px;
+  }
+
+  .dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 10px;
+    text-decoration: none;
+    color: #0C7CFC; 
+  }
+  .dialog .activeLink{
+    text-decoration: none;
+      color: gold;
+  }
+
+  .dialog a{
+    color: #0C7CFC; 
+    text-decoration: none;
+}
+
+  .message{
+color: #0C7CFC;
+  }
+
+  .messages{
+    margin-left: 60px;
+  }

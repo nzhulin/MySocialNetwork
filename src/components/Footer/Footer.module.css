@@ -1,0 +1,8 @@
+.footer{
+    grid-area: f;
+    height: 50px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: #FAF8F8;
+border-radius: 10px;
+}

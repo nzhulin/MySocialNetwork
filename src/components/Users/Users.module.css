@@ -1,0 +1,14 @@
+.usersPhoto{
+    height: 200px;
+    width:200px;
+}
+
+.selectedPageOne{
+    font-weight: bold;
+}
+
+.pageNumbers{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
